@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harps Tech | Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <div class="logo">HARPS<span>TECH</span></div>
+    <ul class="nav-links">
+      <li><a href="index.html" class="active">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <div class="hamburger">☰</div>
+  </nav>
+
+  <section class="hero">
+    <h1>I DON'T BUILD PAGES.<br>I ARCHITECT SYSTEMS.</h1>
+    <p class="brand-statement">Harps Tech Developer | Full-Stack Architect | Elite Problem Solver</p>
+    <a href="projects.html" class="cta-btn">SEE THE ARCHITECTURE</a>
+  </section>
+
+  <footer>
+    <p>© 2026 Harps Tech Developers. #00ff88 | Black | Elite Only</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
